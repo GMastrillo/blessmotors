@@ -1,0 +1,167 @@
+{
+  "clientId": "bless-motors-multimarcas",
+  "businessType": "concessionaria",
+  "_telemetry": {
+    "agent_id": "art-director-gold",
+    "skill_loaded": "design-master + project-genesis-harness",
+    "gold_reference_used": "concessionaria.gold.json"
+  },
+  "brandPalette": {
+    "primaryHex": "#070709",
+    "secondaryHex": "#DC2626",
+    "accentHex": "#D4AF37"
+  },
+  "navbar": {
+    "brandDisplayName": "BLESS MOTORS",
+    "logoUrl": "/logo.png",
+    "logoAspectRatio": 2.1
+  },
+  "hero": {
+    "badgeText": "SEMINOVOS JOINVILLE · SC",
+    "headline": "HONDA CITY SEDAN TOURING 2024",
+    "subheadline": "1.5 Flex Automático com apenas 34.329 km abaixo da Tabela FIPE na R. Monsenhor Gercino, 4477.",
+    "heroMediaUrl": "/inventory/honda-city-touring-2024.webp",
+    "mediaValidatedClean": true,
+    "ctaPrimaryText": "Ver Ficha Completa"
+  },
+  "activeSections": [
+    "inventory_grid",
+    "vip_deliveries_social_proof",
+    "institutional_lounge"
+  ],
+  "inventoryItems": [
+    {
+      "modelName": "HONDA CITY SEDAN TOURING",
+      "year": 2024,
+      "specsSummary": "1.5 Flex 16V Automático · 34.329 km · Abaixo da FIPE · Aceita Troca",
+      "imageUrl": "/inventory/honda-city-touring-2024.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "CAOA CHERY TIGGO 8 TXS",
+      "year": 2022,
+      "specsSummary": "1.6 TGDi 16V Automático · 123.707 km · Abaixo da FIPE · 7 Lugares",
+      "imageUrl": "/inventory/caoa-chery-tiggo-8-2022.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "NISSAN KICKS SL 1.6 CVT",
+      "year": 2018,
+      "specsSummary": "1.6 FlexStart Xtronic · 118.040 km · De R$ 82.900 por R$ 76.800",
+      "imageUrl": "/inventory/nissan-kicks-sl-2018.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "JEEP RENEGADE LONGITUDE",
+      "year": 2016,
+      "specsSummary": "1.8 Flex 4x2 Automático · 128.929 km · Abaixo da FIPE · R$ 59.800",
+      "imageUrl": "/inventory/jeep-renegade-longitude-2016.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "FORD ECOSPORT TITANIUM",
+      "year": 2014,
+      "specsSummary": "2.0 16V Flex Automático · 150.741 km · Aceita Troca · R$ 54.900",
+      "imageUrl": "/inventory/ford-ecosport-titanium-2014.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "HONDA FIT LX 1.4 AUT.",
+      "year": 2014,
+      "specsSummary": "1.4 Flex Automático · 180.865 km · Aceita Troca · R$ 59.900",
+      "imageUrl": "/inventory/honda-fit-lx-2014.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "RENAULT DUSTER DYNAMIQUE",
+      "year": 2014,
+      "specsSummary": "1.6 Hi-Flex Manual · 159.785 km · Abaixo da FIPE · R$ 44.800",
+      "imageUrl": "/inventory/renault-duster-dynamique-2014.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "HYUNDAI HR 2.5 TCI DIESEL",
+      "year": 2011,
+      "specsSummary": "2.5 TCI Diesel RS/RD · 205.250 km · Abaixo da FIPE · R$ 69.800",
+      "imageUrl": "/inventory/hyundai-hr-tci-2011.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "HONDA CITY SEDAN LX 1.5",
+      "year": 2013,
+      "specsSummary": "1.5 Flex Manual · 121.409 km · R$ 52.900 · Pronta Entrega",
+      "imageUrl": "/inventory/honda-city-lx-2013.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "FIAT PUNTO ESSENCE 1.6",
+      "year": 2013,
+      "specsSummary": "1.6 Flex Dualogic · 155.873 km · Abaixo da FIPE · R$ 33.800",
+      "imageUrl": "/inventory/fiat-punto-essence-2013.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "HONDA CITY SEDAN LX 2010",
+      "year": 2010,
+      "specsSummary": "1.5 Flex Manual · 208.916 km · Aceita Troca · R$ 36.800",
+      "imageUrl": "/inventory/honda-city-lx-2010.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "CHEVROLET CELTA LT 1.0",
+      "year": 2012,
+      "specsSummary": "1.0 MPFI FlexPower 5p · 125.380 km · Aceita Troca · R$ 29.800",
+      "imageUrl": "/inventory/chevrolet-celta-lt-2012.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "FORD ECOSPORT XLS 1.6",
+      "year": 2006,
+      "specsSummary": "1.6 Flex 8V 5p · 249.780 km · Aceita Troca · R$ 29.900",
+      "imageUrl": "/inventory/ford-ecosport-xls-2006.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "RENAULT SYMBOL EXPRESSION",
+      "year": 2010,
+      "specsSummary": "1.6 Hi-Flex 8V 4p · 182.687 km · Aceita Troca · R$ 24.900",
+      "imageUrl": "/inventory/renault-symbol-expression-2010.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "FIAT PALIO 1.0 FIRE FLEX",
+      "year": 2007,
+      "specsSummary": "1.0 Fire Flex 2p · 282.000 km · Aceita Troca · R$ 21.900",
+      "imageUrl": "/inventory/fiat-palio-fire-2007.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "FORD FIESTA CLASS 1.0",
+      "year": 2011,
+      "specsSummary": "1.0 8V Flex 5p · 147.408 km · Abaixo da FIPE · R$ 19.800",
+      "imageUrl": "/inventory/ford-fiesta-class-2011.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "FIAT UNO MILLE ECONOMY",
+      "year": 2007,
+      "specsSummary": "1.0 Fire Flex 4p · 241.246 km · Aceita Troca · R$ 18.800",
+      "imageUrl": "/inventory/fiat-uno-mille-2007.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "HONDA CB 300R FLEX",
+      "year": 2014,
+      "specsSummary": "300cc Flex · 144.814 km · Abaixo da FIPE · R$ 12.800",
+      "imageUrl": "/inventory/honda-cb-300r-2014.webp",
+      "imageAuditTag": "clean_vehicle_only"
+    }
+  ],
+  "vipDeliveries": [
+    {
+      "caption": "Showroom oficial da Bless Motors Multimarcas na R. Monsenhor Gercino, 4477 em Joinville - SC.",
+      "imageUrl": "/inventory/nissan-kicks-sl-2018.webp",
+      "imageAuditTag": "lifestyle_or_delivery"
+    }
+  ]
+}
