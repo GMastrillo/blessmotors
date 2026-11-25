@@ -38,8 +38,8 @@ export function Navbar({ visible = true }: NavbarProps) {
       transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] }}
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
         scrolled
-          ? "bg-white/95 dark:bg-[#070709]/92 backdrop-blur-xl border-b border-black/10 dark:border-zinc-800/80 py-3 sm:py-3.5 shadow-[0_10px_30px_rgba(0,0,0,0.06)] dark:shadow-[0_10px_30px_rgba(0,0,0,0.85)]"
-          : "bg-gradient-to-b from-white/95 via-white/60 to-transparent dark:from-[#070709]/92 dark:via-[#070709]/50 dark:to-transparent py-4 sm:py-5"
+          ? "bg-white/95 dark:bg-[#070709]/95 backdrop-blur-xl border-b border-black/10 dark:border-zinc-800/80 py-3 sm:py-3.5 shadow-[0_10px_30px_rgba(0,0,0,0.06)] dark:shadow-[0_10px_30px_rgba(0,0,0,0.85)]"
+          : "bg-gradient-to-b from-white/95 via-white/60 to-transparent dark:from-[#070709]/95 dark:via-[#070709]/60 dark:to-transparent py-4 sm:py-5"
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 sm:px-8 flex items-center justify-between">
@@ -69,7 +69,7 @@ export function Navbar({ visible = true }: NavbarProps) {
             className={`text-xs uppercase tracking-[0.25em] transition-all font-medium py-1 relative ${
               pathname === "/estoque"
                 ? "text-black dark:text-white font-bold"
-                : "text-neutral-600 hover:text-[#DC2626] dark:text-zinc-400 dark:hover:text-[#D4AF37]"
+                : "text-neutral-600 hover:text-[#DC2626] dark:text-zinc-200 dark:hover:text-[#D4AF37]"
             }`}
           >
             <span>{t.nav.inventory}</span>
@@ -79,19 +79,19 @@ export function Navbar({ visible = true }: NavbarProps) {
           </Link>
           <Link
             href="/#experience"
-            className="text-xs uppercase tracking-[0.25em] text-neutral-600 hover:text-[#DC2626] dark:text-zinc-400 dark:hover:text-[#D4AF37] transition-colors font-medium py-1"
+            className="text-xs uppercase tracking-[0.25em] text-neutral-600 hover:text-[#DC2626] dark:text-zinc-200 dark:hover:text-[#D4AF37] transition-colors font-medium py-1"
           >
             {t.nav.experience}
           </Link>
           <Link
             href="/#sourcing"
-            className="text-xs uppercase tracking-[0.25em] text-neutral-600 hover:text-[#DC2626] dark:text-zinc-400 dark:hover:text-[#D4AF37] transition-colors font-medium py-1"
+            className="text-xs uppercase tracking-[0.25em] text-neutral-600 hover:text-[#DC2626] dark:text-zinc-200 dark:hover:text-[#D4AF37] transition-colors font-medium py-1"
           >
             {t.nav.sourcing}
           </Link>
           <Link
             href="/#location"
-            className="text-xs uppercase tracking-[0.25em] text-neutral-600 hover:text-[#DC2626] dark:text-zinc-400 dark:hover:text-[#D4AF37] transition-colors font-medium py-1"
+            className="text-xs uppercase tracking-[0.25em] text-neutral-600 hover:text-[#DC2626] dark:text-zinc-200 dark:hover:text-[#D4AF37] transition-colors font-medium py-1"
           >
             {t.nav.showroom}
           </Link>

@@ -98,19 +98,10 @@ export function HeroHybrid({ onOpenVehicleDetail, onVehicleChange }: HeroHybridP
   };
 
   return (
-    <section className="relative w-full min-h-screen bg-[#fafafa] dark:bg-[#070709] transition-colors duration-500 overflow-hidden flex flex-col justify-between pt-24 pb-12">
-      {/* Subtle Architectural Backdrop (No neon orbs) */}
+    <section className="relative w-full min-h-screen bg-[#fafafa] dark:bg-[#070709] transition-colors duration-500 overflow-hidden flex flex-col justify-between pt-28 pb-12">
+      {/* Clean Solid Backdrop (No grid, no neon orbs) */}
       <div className="absolute inset-0 pointer-events-none z-0 intro-hide transition-opacity duration-700">
-        <div className="absolute inset-0 bg-gradient-to-b from-white via-[#f6f6f7] to-neutral-100 dark:from-[#0C0C10] dark:via-[#070709] dark:to-[#050507]" />
-        <div
-          className="absolute inset-0 opacity-[0.04] dark:opacity-[0.06]"
-          style={{
-            backgroundImage:
-              "linear-gradient(to right, #D4AF37 1px, transparent 1px), linear-gradient(to bottom, #D4AF37 1px, transparent 1px)",
-            backgroundSize: "72px 72px",
-          }}
-        />
-        <div className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-[#fafafa] dark:from-[#070709] to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-b from-white via-[#f6f6f7] to-neutral-100 dark:from-[#0B0B0F] dark:via-[#070709] dark:to-[#070709]" />
       </div>
 
       {/* INTRO EDITORIAL BLESS MOTORS */}
